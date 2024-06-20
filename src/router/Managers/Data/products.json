@@ -1,0 +1,35 @@
+[
+	{
+		"id": 1,
+		"title": "Kit de Ferramentas Profissional",
+		"description": "Este kit de ferramentas é essencial para qualquer projeto de bricolagem ou reparo doméstico. Com uma variedade de chaves, alicates e outras ferramentas de alta qualidade, este conjunto tem tudo o que você precisa para lidar com qualquer tarefa.",
+		"price": 6500,
+		"thumbnail": "./img",
+		"code": "AA02",
+		"stock": 10,
+        "category": "Ferramentas",
+        "status": true
+	},
+	{
+		"id": 2,
+		"title": "Câmera DSLR 24MP",
+		"description": "Capture momentos preciosos com clareza e detalhes impressionantes com esta câmera DSLR de 24 megapixels. Equipada com recursos avançados de fotografia e gravação de vídeo em alta definição, esta câmera é perfeita para entusiastas e profissionais.",
+		"price": 2799.99,
+		"thumbnail": "./ruta_img2",
+		"code": "AA03",
+		"stock": 15,
+        "category": "Eletrônicos",
+        "status": true
+	},
+	{
+		"id": 3,
+		"title": "Câmera DSLR 24MP",
+		"description": "Capture momentos preciosos com clareza e detalhes impressionantes com esta câmera DSLR de 24 megapixels. Equipada com recursos avançados de fotografia e gravação de vídeo em alta definição, esta câmera é perfeita para entusiastas e profissionais.",
+		"price": 2799.99,
+		"thumbnail": "./ruta_img2",
+		"code": "AA03",
+		"stock": 15,
+        "category": "Eletrônicos",
+        "status": true
+	}
+]
